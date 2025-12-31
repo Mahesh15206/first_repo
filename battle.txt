@@ -1,0 +1,8 @@
+Original line 1
+ HEAD
+Line 2 changed by ME LOCALLY
+Original line 3
+
+Line 2 changed by GITHUB USER
+Original line 3
+ efeec161dacbb4e4f62949e885d47d573c069230
