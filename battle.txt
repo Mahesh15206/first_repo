@@ -1,3 +1,3 @@
 Original line 1
-Original line 2
+Line 2 changed by GITHUB USER
 Original line 3
