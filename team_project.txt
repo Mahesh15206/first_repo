@@ -1,3 +1,7 @@
 This is the base code.
+ HEAD
 Function A = "Completed by USER 1"
+
+Function A = "Completed by USER 2"
+ 6f728e3265f251b209d1055aafc4be4bd155c532
 End of code.
